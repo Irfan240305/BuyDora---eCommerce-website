@@ -58,43 +58,6 @@ BuyDora is a full-stack e-commerce web application designed to provide a seamles
 - **File Upload**: Multer
 - **Styling**: Tailwind CSS
 
----
-
-##  Project Structure
-
-```
-BuyDora/
-├── frontend/                  # React + Vite application
-│   ├── src/
-│   │   ├── components/       # Reusable UI components
-│   │   ├── pages/            # Page components
-│   │   ├── store/            # Redux state management
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── .env                  # Frontend environment variables
-│   └── package.json
-│
-├── backend/                   # Express.js server
-│   ├── routes/               # API endpoints
-│   ├── controllers/          # Business logic
-│   ├── models/               # MongoDB schemas
-│   ├── middleware/           # Auth, validation, error handling
-│   ├── uploads/              # Product image uploads
-│   ├── server.js             # Entry point
-│   ├── .env                  # Backend environment variables
-│   └── package.json
-│
-├── assets/                    # Screenshots and media
-│   ├── home.png
-│   ├── collections.png
-│   └── confirmpage.png
-│
-├── .gitignore
-└── README.md
-```
-
----
-
 ##  Installation & Setup
 
 ### **Prerequisites**
