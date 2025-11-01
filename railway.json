@@ -1,8 +1,0 @@
-{
-  "builder": "nixpacks",
-  "nixpacks": {
-    "workdir": "backend",
-    "buildCommand": "npm install",
-    "startCommand": "npm start"
-  }
-}
