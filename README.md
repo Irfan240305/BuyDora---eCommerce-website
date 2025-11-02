@@ -156,7 +156,7 @@ For major changes, please open an issue first to discuss your ideas.
 
 - **GitHub:** [@Irfan240305](https://github.com/Irfan240305)
 - **Email:** irfanubaidhu@gmail.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/irfan-ahmed-9539a3255/)
 - **Issues:** Report bugs via [GitHub Issues](https://github.com/Irfan240305/BuyDora---eCommerce-website/issues)
 
 ---
