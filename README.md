@@ -52,7 +52,7 @@ BuyDora is a full-stack e-commerce web application designed to provide a seamles
 
 ### **Key Technologies**
 - **Authentication**: JWT (JSON Web Tokens), bcrypt
-- **Payment Gateways**: PayPal, Razorpay
+- **Payment Gateways**: Razorpay
 - **AI Integration**: Hugging Face API
 - **State Management**: Redux Toolkit
 - **File Upload**: Multer
